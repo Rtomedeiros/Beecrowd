@@ -1,0 +1,16 @@
+C:\Users\rtome\Desktop\Workspace\Uri Online\Iniciante\Exerc#1007\obj\Debug\net5.0\Exerc#1007.csprojAssemblyReference.cache
+C:\Users\rtome\Desktop\Workspace\Uri Online\Iniciante\Exerc#1007\obj\Debug\net5.0\Exerc#1007.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rtome\Desktop\Workspace\Uri Online\Iniciante\Exerc#1007\obj\Debug\net5.0\Exerc#1007.AssemblyInfoInputs.cache
+C:\Users\rtome\Desktop\Workspace\Uri Online\Iniciante\Exerc#1007\obj\Debug\net5.0\Exerc#1007.AssemblyInfo.cs
+C:\Users\rtome\Desktop\Workspace\Uri Online\Iniciante\Exerc#1007\obj\Debug\net5.0\Exerc#1007.csproj.CoreCompileInputs.cache
+C:\Users\rtome\Desktop\Workspace\Uri Online\Iniciante\Exerc#1007\bin\Debug\net5.0\Exerc#1007.exe
+C:\Users\rtome\Desktop\Workspace\Uri Online\Iniciante\Exerc#1007\bin\Debug\net5.0\Exerc#1007.deps.json
+C:\Users\rtome\Desktop\Workspace\Uri Online\Iniciante\Exerc#1007\bin\Debug\net5.0\Exerc#1007.runtimeconfig.json
+C:\Users\rtome\Desktop\Workspace\Uri Online\Iniciante\Exerc#1007\bin\Debug\net5.0\Exerc#1007.runtimeconfig.dev.json
+C:\Users\rtome\Desktop\Workspace\Uri Online\Iniciante\Exerc#1007\bin\Debug\net5.0\Exerc#1007.dll
+C:\Users\rtome\Desktop\Workspace\Uri Online\Iniciante\Exerc#1007\bin\Debug\net5.0\ref\Exerc#1007.dll
+C:\Users\rtome\Desktop\Workspace\Uri Online\Iniciante\Exerc#1007\bin\Debug\net5.0\Exerc#1007.pdb
+C:\Users\rtome\Desktop\Workspace\Uri Online\Iniciante\Exerc#1007\obj\Debug\net5.0\Exerc#1007.dll
+C:\Users\rtome\Desktop\Workspace\Uri Online\Iniciante\Exerc#1007\obj\Debug\net5.0\ref\Exerc#1007.dll
+C:\Users\rtome\Desktop\Workspace\Uri Online\Iniciante\Exerc#1007\obj\Debug\net5.0\Exerc#1007.pdb
+C:\Users\rtome\Desktop\Workspace\Uri Online\Iniciante\Exerc#1007\obj\Debug\net5.0\Exerc#1007.genruntimeconfig.cache
